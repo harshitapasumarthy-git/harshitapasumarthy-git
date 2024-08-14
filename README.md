@@ -1,6 +1,6 @@
 
-## About Me👩🏻‍💻: 
-"I’m a tech enthusiast with 3 years of experience weaving data into innovative solutions. From transforming raw data into actionable insights, I thrive on turning numbers into narratives that drive impactful decisions."
+## Hello There!👩🏻‍💻: 
+"I’m a tech enthusiast with 3 years of experience weaving data into innovative solutions and a strong background in software engineering. From transforming raw data into actionable insights to designing robust software systems, I thrive on turning numbers into narratives and code into impactful solutions that drive meaningful decisions."
 <!--
 **harshitapasumarthy-git/harshitapasumarthy-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
